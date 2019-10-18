@@ -1,0 +1,21 @@
+{
+    "name": "rdomenzain/cfdi33-timbrado",
+    "version": "1.0.0",
+    "description": "Timbrado de CFDI 3.3 SAT M\u0000xico",
+    "keywords": ["cfdi", "mexico", "invoice", "pdf", "factura", "ddsis", "domenzain"],
+    "homepage": "https://github.com/rdomenzain/cfdi33-timbrado",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Domenzain M.",
+            "email": "rdomenzain@ddsis.com.mx",
+            "homepage": "https://ddsis.com.mx/"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/rdomenzain/cfdi33-timbrado",
+        "issues": "https://github.com/rdomenzain/cfdi33-timbrado/issues"
+    },
+    "require": { }
+}
