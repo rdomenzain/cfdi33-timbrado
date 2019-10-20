@@ -17,5 +17,7 @@
         "source": "https://github.com/rdomenzain/cfdi33-timbrado",
         "issues": "https://github.com/rdomenzain/cfdi33-timbrado/issues"
     },
-    "require": { }
+    "require": {
+        "econea/nusoap": "^0.9.6"
+    }
 }
