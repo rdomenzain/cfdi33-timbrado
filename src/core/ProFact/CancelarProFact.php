@@ -9,7 +9,7 @@ use rdomenzain\cfdi\timbrado\models\ProFact\ResponseCancelaCFDIProFact;
 /**
  * Servicios relacionados a la cancelacion con ProFact
  */
-class CancalarProFact
+class CancelarProFact
 {
 
     private $client;
